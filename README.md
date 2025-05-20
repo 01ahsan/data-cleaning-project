@@ -28,5 +28,5 @@ This project demonstrates how to clean and preprocess real-world messy data usin
 [NYPD Motor Vehicle Collisions Dataset](https://www.kaggle.com/datasets/new-york-city/nypd-motor-vehicle-collisions)
 
 ## Acknowledgments
-Thanks to NYC Open Data and Kaggle for providing the dataset.
+NYC Open Data and Kaggle
 
