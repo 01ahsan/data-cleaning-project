@@ -1,0 +1,25 @@
+# Ignore raw data files
+data/*.csv
+!data/nypd_cleaned_sample.csv  # Allow only the cleaned sample
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system/IDE files
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+
+# Ignore Jupyter config
+.jupyter/
