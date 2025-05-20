@@ -1,5 +1,4 @@
 # Ignore raw data files
-data/*.csv
 !data/nypd_cleaned_sample.csv  # Allow only the cleaned sample
 
 # Ignore notebook checkpoints
